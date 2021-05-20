@@ -14,7 +14,7 @@
     "crownstone-core": "^0.8.3",
     "crownstone-logger": "^0.1.4",
     "got": "^11.5.2",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "sha-1": "~0.1.1"
   },
   "devDependencies": {
